@@ -1,0 +1,60 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin: 0;
+}
+.name-highlight{
+    color: orange;
+}
+h1{
+    font-size: 35px;
+}
+.halfdiv{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.halfdiv img{
+    width: 70%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+}
+.top-banner{
+    height: 550px;
+    background-repeat: no-repeat;
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 700;
+}
+
+.button2{
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    font-weight: 700;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    text-decoration: none
+    }
+    .top-banner1{
+        height: 550px;
+
+    }
+
+.last{
+    height: 550px;
+}
+
+.shadow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 52%;
+}
+.ex{
+    text-align: center;
+}
